@@ -4,8 +4,5 @@ export const theme = {
   space: scale,
   sizes: scale,
   fontSizes: [12, 14, 16, 18, 20, 24, 30, 36, 48, 60, 72],
-  breakpoints: ["40em", "52em", "64em"],
-  colors: {
-    background: "hsl(0, 0%, 98%)"
-  }
+  breakpoints: ["40em", "52em", "64em"]
 };
