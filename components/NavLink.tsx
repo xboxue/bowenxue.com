@@ -6,8 +6,8 @@ export const NavLink = (props: LinkProps) => (
     sx={{
       display: "inline-block",
       color: "inherit",
-      mr: [3, 4],
-      textDecoration: "none"
+      textDecoration: "none",
+      fontWeight: "bold"
     }}
   />
 );

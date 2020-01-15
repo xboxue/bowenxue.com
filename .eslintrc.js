@@ -18,7 +18,8 @@ module.exports = {
   plugins: ["react", "@typescript-eslint"],
   rules: {
     "@typescript-eslint/explicit-function-return-type": 0,
-    "react/react-in-jsx-scope": 0
+    "react/react-in-jsx-scope": 0,
+    "react/no-unescaped-entities": 0
   },
   settings: {
     react: {
